@@ -1,0 +1,3 @@
+mnist中是工程，只有读取参数和预测
+deeplearningcmaster的压缩包中是github中的一个纯c构建的cnn
+数据集已经经过修改成为了17*17大小的数据，与mnist一致
